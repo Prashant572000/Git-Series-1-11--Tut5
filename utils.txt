@@ -1,2 +1,1 @@
-utility function for windows 2
-this changed after push, 
+utility function for windows 2 video6 
